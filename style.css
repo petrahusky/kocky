@@ -4,6 +4,8 @@ h1 {
 }
 
 .kocka {
-    border: 20px dotted purple;
+width: 100px;    
+height: 100px;
+border: 20px dotted purple;
     border-radius: 50%;
 } 
